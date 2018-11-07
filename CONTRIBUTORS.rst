@@ -103,6 +103,7 @@ Listed in alphabetical order.
   Harry Percival           `@hjwp`_
   Hendrik Schneider        `@hendrikschneider`_
   Henrique G. G. Pereira   `@ikkebr`_
+  HP Bruna                 `@hpbruna`_
   Ian Lee                  `@IanLee1521`_
   Irfan Ahmad              `@erfaan`_                    @erfaan
   Jan Van Bruggen          `@jvanbrug`_
